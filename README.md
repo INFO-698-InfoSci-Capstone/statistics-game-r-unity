@@ -2,11 +2,6 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## A compendium of code, data, and author's manuscript accompanying the manuscript:
-
-#### TBD
-
-
 ## Overview
 "Defeat the P" is an educational game that makes learning about statistical significance engaging and intuitive. Players use a slingshot to launch projectiles at histogram bars, manipulating the data distribution to achieve specific statistical outcomes.
 
@@ -104,6 +99,7 @@ Sound effects: (https://freesound.org/)
 Libraries: Three.js, Cannon.js, R Shiny
 
 This project combines educational content with interactive gameplay to make statistical concepts more accessible and engaging for students at various levels.
+
 ## File Organization
 
     analysis/
