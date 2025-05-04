@@ -84,6 +84,11 @@ shiny::runApp("path/to/app")
 4. Observe how your changes affect the p-value
 5. Try to achieve the target p-value goal efficiently
 
+## Bugs
+
+* Occasionally, the initial histogram P-value doesn't load. 
+* Scoring sometimes adds upon itself excessively.
+
 ## Possible Future Enhancements
 
 * Additional statistical tests (ANOVA, Chi-square, etc.)
