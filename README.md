@@ -1,3 +1,6 @@
+# Defeat the P: T-Test
+A 3D interactive statistical learning game built with R Shiny, Three.js, and Cannon.js where players manipulate histograms through a physics-based slingshot system to understand p-values and t-tests.
+
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
