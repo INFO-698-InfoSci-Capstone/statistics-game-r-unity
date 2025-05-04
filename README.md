@@ -67,11 +67,9 @@ The scoring system rewards strategic thinking and efficiency:
 ## Installation
 
 1. Clone this repository
-2. Ensure R and the following packages are installed:
-install.packages(c("shiny", "ggplot2", "stats"))
+2. Ensure R and the following packages are installed: ``` install.packages(c("shiny", "ggplot2", "stats")) ```
 
-3. Run the application:
-shiny::runApp("path/to/app")
+3. Run the application: ``` shiny::runApp("path/to/app") ```
 
 ## Usage
 
@@ -97,7 +95,7 @@ shiny::runApp("path/to/app")
 ## Credits
 
 * Game design and implementation: Jonathan McCoy & Varun Jayaram
-* Sound effects: (https://freesound.org/)
+* Sound effects: (https://freesound.org/) 
 * Libraries: Three.js, Cannon.js, R Shiny
 
 This project combines educational content with interactive gameplay to make statistical concepts more accessible and engaging for students at various levels.
