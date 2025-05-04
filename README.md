@@ -93,9 +93,9 @@ shiny::runApp("path/to/app")
 
 ## Credits
 
-Game design and implementation: Jonathan McCoy & Varun Jayaram
-Sound effects: (https://freesound.org/)
-Libraries: Three.js, Cannon.js, R Shiny
+* Game design and implementation: Jonathan McCoy & Varun Jayaram
+* Sound effects: (https://freesound.org/)
+* Libraries: Three.js, Cannon.js, R Shiny
 
 This project combines educational content with interactive gameplay to make statistical concepts more accessible and engaging for students at various levels.
 
