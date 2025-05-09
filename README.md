@@ -71,7 +71,7 @@ The scoring system rewards strategic thinking and efficiency:
 
 3. Run the application: ``` shiny::runApp("path/to/app") ```
 
-Alternatively, you can try the game here (sound not working): 
+Alternatively, you can try the game here (sound not working): https://wetherell.shinyapps.io/Defeat_the_p/ 
 
 ## Usage
 
